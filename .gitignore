@@ -2,4 +2,4 @@
 __pycache__/
 *.dvc_env
 *secret.py
-/train.csv
+train.csv
